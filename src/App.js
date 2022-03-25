@@ -23,7 +23,7 @@ function App() {
           Name : Neelesh Sharma <hr/>
           Age : 23 <hr/>
           City : Gurgaon, Haryana <hr/>
-          Education : Bachelor of Technolo gy, IIT Roorkee <hr/>
+          Education : Bachelor of Technology, IIT Roorkee <hr/>
           Expertise : Software Development and Project Management <hr/>
 
           <Button type="link"><a target="cv" href={resume}>Download CV</a></Button>
@@ -34,7 +34,7 @@ function App() {
           Name : Neelesh Sharma <hr/>
           Age : 23 <hr/>
           City : Gurgaon, Haryana <hr/>
-          Education : Bachelor of Technolo gy, IIT Roorkee <hr/>
+          Education : Bachelor of Technology, IIT Roorkee <hr/>
           Expertise : Software Development and Project Management <hr/>
 
           <Button type="link"><a target="cv" href={resume}>Download CV</a></Button>
